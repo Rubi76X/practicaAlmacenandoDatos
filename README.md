@@ -1,5 +1,5 @@
 # Práctica JS en la Web: Almacenando datos en el navegador
-### Curso One Next Education
+### Curso alura latam - One Next Education
 
 ## Temas vistos
 - Utilización del componente de calendario
