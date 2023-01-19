@@ -1,5 +1,5 @@
 # Práctica JS en la Web: Almacenando datos en el navegador
-### Curso alura latam - One Next Education
+### Curso Alura Latam - One Next Education
 
 ## Temas vistos
 - Utilización del componente de calendario
@@ -9,9 +9,9 @@
 - Almacenamiento de las tareas con LocalStorage
 - Transformación de objetos en string utilizando JSON.stringify()
 - Recorrer el arreglo con forEach() de las tareas guardadas en LocalStorage
-- Uso de pipe
+- Uso de Pipe
 - Convertir las tareas almacenadas en formato string a objetos con JSON.parse()
 - Filtrar elementos de un arreglo
 - Ordenar los elementos del LocalStorage
 - Cambiar un estado utilizando operador de negación
-- Eliminar datos del LocalStorage utilizando el método splice
+- Eliminar datos del LocalStorage utilizando el método Splice
